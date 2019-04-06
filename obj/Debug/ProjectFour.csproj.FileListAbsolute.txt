@@ -1,0 +1,7 @@
+C:\Users\Cing Lun\Documents\C# Class\ProjectFour\ProjectFour\ProjectFour\bin\Debug\ProjectFour.exe.config
+C:\Users\Cing Lun\Documents\C# Class\ProjectFour\ProjectFour\ProjectFour\bin\Debug\ProjectFour.exe
+C:\Users\Cing Lun\Documents\C# Class\ProjectFour\ProjectFour\ProjectFour\bin\Debug\ProjectFour.pdb
+C:\Users\Cing Lun\Documents\C# Class\ProjectFour\ProjectFour\ProjectFour\obj\Debug\ProjectFour.csprojAssemblyReference.cache
+C:\Users\Cing Lun\Documents\C# Class\ProjectFour\ProjectFour\ProjectFour\obj\Debug\ProjectFour.csproj.CoreCompileInputs.cache
+C:\Users\Cing Lun\Documents\C# Class\ProjectFour\ProjectFour\ProjectFour\obj\Debug\ProjectFour.exe
+C:\Users\Cing Lun\Documents\C# Class\ProjectFour\ProjectFour\ProjectFour\obj\Debug\ProjectFour.pdb
